@@ -1,0 +1,5 @@
+packaging==23.1
+ply==3.11
+shiboken2==5.15.2.1
+sip==6.7.11
+tomli==2.0.1
